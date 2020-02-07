@@ -1,0 +1,12 @@
+{
+	"appid":4,
+	"token":"863f97cdad",
+	"front_res":[
+        {
+          "vue-circle":"",
+          "source":"./c1.css",
+          "target":"/var/www/html/s/sns/post-lib/",
+          "is_delete":true
+        }
+	]
+}
